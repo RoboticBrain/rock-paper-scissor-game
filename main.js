@@ -64,7 +64,7 @@ function play(player) {
             result = 'Lose';
         }
         else if(computer === 3){
-            computerMove = 'scissors';
+            computerMove = 'Scissors';
             result = 'Win'
         
     }
